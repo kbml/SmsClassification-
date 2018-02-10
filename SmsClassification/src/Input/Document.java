@@ -13,6 +13,7 @@ public class Document {
      * List of token counts
      */
     public Map<String, Integer> tokens;
+//Using Maps
     
     /**
      * The class of the document
